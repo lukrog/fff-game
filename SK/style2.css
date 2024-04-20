@@ -1,0 +1,256 @@
+a:visited {color: #2f4fff;}
+a:link {color: #2f43ff;}
+
+html, body {
+	background-color: #fff;
+	color: #000;
+	margin: 0;
+	padding: 0;
+	background-image: url("graf/layout.gif");
+	background-repeat: repeat;
+	font-family: arial, verdana, sans-serif;
+	font-size: 13px;
+}
+
+
+#supertop {
+        width: 878px;
+	margin: 0px AUTO 0px AUTO; 
+	margin-bottom: 15px;
+}
+
+#top {
+	margin-top: 15px;  
+	width: 728px;
+	/*margin: 0px AUTO 0px AUTO; */
+	float: left;
+}
+
+#NAGLOWEK {
+        height: 100px;
+	/*background-color: #e1e1e1;*/
+}
+
+#NAGLOWEK2 {
+	/*background-color: #e1e1e1;*/
+	padding-top: 20px;
+	padding-left: 15px;
+	background-image: url("graf/tlowysz.jpg");
+	height: 50px;
+}
+
+#NAGLOWEKLEWY {
+	float: left;
+	/*background-image: url("graf/tlonagle.jpg");*/
+}
+
+#NAGLOWEKPRAWY {
+	float: right;
+	/*background-image: url("graf/tlonagpr.jpg");*/
+}
+
+
+#TRESC {
+	padding-left: 10px; 
+	width: 568px;
+	float: right;
+	/*background-color: #fff;*/
+}
+
+#MENU {
+	width: 140px;
+	float: left;
+	margin-left: 10px;
+	/*background-color: #e9e9e9;*/
+}
+
+#INFORMACJE {
+        margin-top: 15px;
+	width: 140px;
+	float: right;
+	margin-left: 10px;
+	/*background-color: #efefef;*/
+	
+}
+
+#srodek {
+        background-image: url("graf/tlomenu.JPG");
+	background-repeat: repeat-y;
+        width: 728px;
+	overflow: hidden;
+
+}
+
+#STOPKA {
+	clear: both;
+	width: 268px;
+	background-image: url("graf/tlowysz.jpg");
+	padding-top: 15px;
+	height: 55px;
+	padding-left: 460px;
+	margin-bottom: 15px;
+}
+
+
+
+table.wyscig {
+  border: 1px solid white;
+  border-collapse: collapse;
+  background-color: #e9e9e9;
+  font-size:12px;
+  text-align: left;
+  font-weight: normal;  
+}
+
+table.wysciga {
+  border: 1px solid white;
+  border-collapse: collapse;
+  background-color: #e9e9e9;
+  font-size:12px;
+  text-align: center;
+  vertical-align:middle;
+  font-weight: normal;  
+}
+
+TD.wyscig1 {
+  width: 40px;  
+}
+
+TD.wyscig2 {
+  width: 200px;  
+}
+
+TD.wyscig3 {
+  width: 40px;  
+}
+
+TD.wyscig4 {
+  width: 210px;  
+}
+
+TD.wyscig5 {
+  width: 40px;  
+}
+
+TD.wyscig6 {
+  width: 80px;  
+}
+
+TD.wyscig7 {
+  width: 380px;  
+}
+
+TD.wyscig8 {
+  width: 150px;  
+}
+
+TD.wyscig9 {
+  width: 250px;  
+}
+
+TD.wyscig10 {
+  width: 30px;  
+  text-align: right;
+}
+
+TD.wyscig11 {
+  width: 20px;  
+}
+
+TD.wyscig12 {
+  width: 80px;  
+  text-align: right;
+}
+
+TD.wyscig13 {
+  width: 60px;  
+}
+
+TD.wyscig14 {
+  width: 140px;  
+}
+
+TD.wyscig14 {
+  width: 140px;  
+}
+
+TD.wyscig15 {
+  width: 300px;  
+}
+
+TR.rankingr {
+  height: 20px;
+}
+
+TD.rankingd {
+  width: 200px;  
+  font-size: 10px;
+}
+
+TD.rankingo {
+  width: 30px;  
+  font-size: 12px;
+}
+
+TD.rankingo2 {
+  width: 30px;  
+  font-size: 12px;
+}
+
+TD.rankingo3 {
+  width: 30px;  
+  font-size: 12px;
+  text-align: right;
+}
+
+
+input.form { 
+  border:1px dashed #3399CC;
+  font-family: tahoma,sans-serif;
+  height: 17px;
+  font-size: 9px;  
+}
+
+input.forma { 
+  border:1px dashed #3399CC;
+  font-family: tahoma,sans-serif;
+  height: 17px;
+  font-size: 9px;  
+  width: 30px;
+}
+
+input.form2 { 
+  font-family: tahoma,sans-serif;
+  height: 19px;
+  font-size: 9px;
+  border-right: #358efd 2px solid;
+  border-top: #b2d3fb 2px solid;
+  border-bottom: #358efd 2px solid;
+  border-left: #b2d3fb 2px solid;
+  background-color: #72affb;
+}
+
+select.form3 { 
+  border:1px dashed #3399CC;
+  font-family: tahoma,sans-serif;
+  height: 17px;
+  font-size: 11px;
+  
+}
+
+input.form4 { 
+  border:1px dashed #3399CC;
+  font-family: tahoma,sans-serif;
+  height: 17px;
+  font-size: 11px;
+  width: 20px;   
+}
+
+table.szaretlo {
+  border: 1px solid white;
+  border-collapse: collapse;
+  background-color: #e9e9e9;
+  font-size: 9px;
+  text-align: left;
+  font-weight: normal;
+}

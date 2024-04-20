@@ -1,0 +1,206 @@
+﻿1|skrót|PL|EN
+2|flaga|Polska.jpg|Wielkabrytania.jpg
+3|język|polski|english
+4|google|szukaj|search
+5|google|Twoja wyszukiwarka|Your google search
+6|Menu lewe|Aktualności|News
+7|Menu lewe|aktualności|news
+8|Menu lewe|Skarb Kibica|Database
+9|Menu lewe|ekipy|teams
+10|Menu lewe|narodowości|nations
+11|Menu lewe|wyścigi|races
+12|Menu lewe|szukaj kolarza|find cyclist
+13|Menu lewe|Ranking|Ranting
+14|Menu lewe|ranking|ranking
+15|Menu lewe|ranking kroczący|ranking 365 days
+16|teams|Drużyny|Teams
+17|teams|nazwa|name
+18|teams|skrót|short
+19|teams|ilu kol.|how many cyclists
+20|teams|Pozostałe|Other
+21|teams|Kolarz zawieszony za doping|Suspended
+22|teams|Koniec kariery|Retire
+23|team|kraj|country
+24|team|liga|class
+25|team|transfery|transfers
+26|team|w tym sezonie|this season
+27|team|w przyszłym sezonie|next season
+28|team|adres|adress
+29|team|e-mail|e-mail
+30|team|www|www
+31|team|sponsor|sponsor
+32|team|kolarz|cyclist
+33|team|data urodzenia|date of birth
+34|team|wiek|age
+35|team|Menedżer:|Manager:
+36|team|Dyrektor sportowy:|Team manager:
+37|team|Asystent:|Asistant:
+38|team|Asystenci:|Ass. Manager:
+39|team|Lekarze:|Doctors:
+40|team|Masażyści:|Massagists:
+41|team|Mechanicy:|Mechanics:
+42|teamh|ROK|YEAR
+43|teamh|Wiek kolarzy podawany jest na sezon|Age of cyclists is calculated on sezon 
+44|teamh|Kolarze, którzy przedłużyli kontrakty:|Cyclists, who extended contract:
+45|teamh|Kolarze którzy przyszli:|Cyclists in:
+46|teamh|Kolarze którzy odeszli:|Cyclists out:
+47|teamh|Kolarze niezdecydowani:|Cyclists undecided:
+48|teamh|Kolarze którzy zamierzają przedłużyć kontrakty:|Cyclists, who will extend contract:
+49|teamh|Kolarze którzy zamierzają przyjść do ekipy:|Cyclists, who will singn with team:
+50|teamh|Kolarze którzy zamierzają odejść od ekipy:|Cyclists, who will be out of team:
+51|teamh|Ekipa rozwiązana|End of team
+52|teamh|Następny sezon|Next season
+53|teamh|kiedy|when
+54|nats|Kraje|Countries 
+55|nats|Pokaż kolarzy którzy skończyli karierę|Show retired cyclists
+56|nat|ekipa|team
+57|nat|Ekipa amatorska|Amateur team
+58|natkk|Pokaż aktywnych kolarzy|Show active cyclists
+59|natkk|ostatnia ekipa|last team
+60|natkk|nieznana|unknown
+61|races|przejdź do roku|move to the year
+62|races|Wyścigi w sezonie|Races in season
+63|races|klas. UCI|class. UCI
+64|races|data początku|Date of start
+65|races|data końca|date of end
+66|wyscig|lp.|pl.
+67|wyscig|czas/strata|time/loss
+68|wyscig|Kolarz spoza bazy|not in database
+69|wyscig|prawd. koniec kariery|prob. retire
+70|szukaj|Podaj dokładniejszą frazę (zbyt ogólne wyszukanie)|Too many results found; please refine your search.
+71|teamh|z|from
+72|teamh|do|to
+73|ranking|od|from
+74|ranking|sortuj|sort
+75|ranking|wyjaśnienie skrótów|meaning of shortcuts
+76|ranking|skróty|shortcuts
+77|ranking|<b>Cli</b> - katagoria najlepszy góral;<br/><b>Hil</b> - kategoria najlepszy na pagórkach;<br/><b>Fl</b>&nbsp; - kategoria najlepszy na płaskim;<br/><b>Spr</b> - kategoria najlepszy sprinter;<br/><b>Cbl</b> - kategoria najlepszy w jeździe po bruku;<br/><b>TT</b>&nbsp; - kategoria najlepszy na czas.<br/><b>ranking bieżący</b> - ranking obliczany na podstawie tylko wyników z tego roku<br/>  <b>ranking kroczący</b> - ranking obliczany na podstawie wyników z ostatnich 365 dni<br/>  |<b>Cli</b> - best in mountains;<br/><b>Hil</b> - best on hils;<br/><b>Fl</b>&nbsp; - best on flat;<br/><b>Spr</b> - best sprinter;<br/><b>Cbl</b> - best on cobble;<br/><b>TT</b>&nbsp; - best time trials.<br/><b>ranting this season</b> - ranting counted on this season races<br/>  <b>ranking 365 days</b> - ranting counted on last 365 days races<br/>  
+78|ranking|Ranking bieżący|This season ranting
+79|kol|narodowość|nationality
+80|kol|wzrost|height
+81|kol|waga|weight
+82|kol|zaw. od|pro from
+83|kol|Przyszłość kolarza|Future of cyclist
+84|kol|od kiedy|from when
+85|kol|Historia kolarza|Cyclist history
+86|kol|Osiągnięcia w obecnym sezonie|Achievements in this season 
+87|kol|miejsce|place
+88|kol|w|in
+89|kol|na|on
+90|kol|etapie|stage
+91|kol|Osiągnięcia w poprzednich sezonach|Achievements in former seasons 
+92|kol|klasyfikacji górskiej|mountains classification
+93|kol|klasyfikacji punktowej|points classification
+94|kol|Sezon|season
+95|kol|Wszystkie wyniki sezonu|All results in this season
+96|kolwyn|Ekipa kolarza|Team
+97|kolwyn|Osiągnięcia kolarza|Achievements of cyclist
+98|kolwyn|Wyniki w obecnym sezonie|Results in this season
+99|kolwyn|w czym|in what
+100|kolwyn|Wyniki w sezonie|Results in season
+101|wyjaśnienia|Górski etap/wyścig|Mountain stage/race
+102|wyjaśnienia|Ucieczka na górskim etapie/wyścigu|Brakeaway on mountain stage/race
+103|wyjaśnienia|Górska jazda na czast|Mountain time trial
+104|wyjaśnienia|Pagórkowaty etap/wyścig|Hilly stage/race
+105|wyjaśnienia|Ucieczka na pagórkowatym etapie/wyścigu|Brakeaway on hilly stage/race
+106|wyjaśnienia|Sprint na pagórkowatym etapie/wyścigu|Sprint on hilly stage/race
+107|wyjaśnienia|Pofalowany etap/wyścig|Stage/race with small hills
+108|wyjaśnienia|Ucieczka na pofalowanym etapie/wyścigu|Brakeway on stage/race with small hils
+109|wyjaśnienia|Sprint na pofalowanym etapie/wyścigu|Sprint on stage/race with small hills
+110|wyjaśnienia|Płaski etap/wyścig|Flat stage/race
+111|wyjaśnienia|Ucieczka na płaskim etapie/wyścigu|Brakeaway on flat stage/race
+112|wyjaśnienia|Sprint|Sprint
+113|wyjaśnienia|Etap/wyścig po bruku|Cobble stage/race
+114|wyjaśnienia|Jazda indywidualna na czas|Indiwidual Time Trial
+115|wyjaśnienia|Jazda drużynowa na czas|Team Time Trial
+116|nazwy|wyniki kolarza|results of cyclist
+117|nazwy|historia ekipy|history of team
+118|nazwy|wyścig|race
+10000|co|klas. gen. |gen. cl.
+10001|co|kl. gór. |mount. cl.
+10002|co|kl. pun. |pts cl.
+10010|co|.lider |lider
+11000|co|.prolog |prolog
+11010|co|etap 01 |stage 1
+11011|co|etap 01a |stage 1a
+11012|co|etap 01b |stage 1b
+11020|co|etap 02 |stage 2
+11021|co|etap 02a |stage 2a
+11022|co|etap 02b |stage 2b
+11030|co|etap 03 |stage 3
+11031|co|etap 03a |stage 3a
+11032|co|etap 03b |stage 3b
+11040|co|etap 04 |stage 4
+11041|co|etap 04a |stage 4a
+11042|co|etap 04b |stage 4b
+11050|co|etap 05 |stage 5
+11051|co|etap 05a |stage 5a
+11052|co|etap 05b |stage 5b
+11060|co|etap 06 |stage 6
+11061|co|etap 06a |stage 6a
+11062|co|etap 06b |stage 6b
+11070|co|etap 07 |stage 7
+11071|co|etap 07a |stage 7a
+11072|co|etap 07b |stage 7b
+11080|co|etap 08 |stage 8
+11081|co|etap 08a |stage 8a
+11082|co|etap 08b |stage 8b
+11090|co|etap 09 |stage 9
+11091|co|etap 09a |stage 9a
+11092|co|etap 09b |stage 9b
+11100|co|etap 10 |stage 10
+11110|co|etap 11 |stage 11
+11120|co|etap 12 |stage 12
+11130|co|etap 13 |stage 13
+11140|co|etap 14 |stage 14
+11150|co|etap 15 |stage 15
+11160|co|etap 16 |stage 16
+11170|co|etap 17 |stage 17
+11180|co|etap 18 |stage 18
+11190|co|etap 19 |stage 19
+11200|co|etap 20 |stage 20
+11210|co|etap 21 |stage 21
+20000|co|Klasyfikacja generalna:|General clasification:
+20001|co|Klasyfikacja górska:|Mountains clasifications:
+20002|co|Klasyfikacja punktowa:|Points clasification:
+20010|co|Punkty za liderowanie w wyścigu:|Points for lidering in a race:
+21000|co|Wyniki prologu:|Prolog results:
+21010|co|Wyniki etapu 1:|1st stage results
+21011|co|Wyniki etapu 1a:|1st(a) stage results
+21012|co|Wyniki etapu 1b:|1st(b) stage results
+21020|co|Wyniki etapu 2:|2nd stage results
+21021|co|Wyniki etapu 2a:|2nd(a) stage results
+21022|co|Wyniki etapu 2b:|2nd(b) stage results
+21030|co|Wyniki etapu 3:|3rd stage results
+21031|co|Wyniki etapu 3a:|3rd(a) stage results
+21032|co|Wyniki etapu 3b:|3rd(b) stage results
+21040|co|Wyniki etapu 4:|4th stage results
+21041|co|Wyniki etapu 4a:|4th(a) stage results
+21042|co|Wyniki etapu 4b:|4th(b) stage results
+21050|co|Wyniki etapu 5:|5th stage results
+21051|co|Wyniki etapu 5a:|5th(a) stage results
+21052|co|Wyniki etapu 5b:|5th(b) stage results
+21060|co|Wyniki etapu 6:|6th stage results
+21061|co|Wyniki etapu 6a:|6th(a) stage results
+21062|co|Wyniki etapu 6b:|6th(b) stage results
+21070|co|Wyniki etapu 7:|7th stage results
+21071|co|Wyniki etapu 7a:|7th(a) stage results
+21072|co|Wyniki etapu 7b:|7th(b) stage results
+21080|co|Wyniki etapu 8:|8th stage results
+21081|co|Wyniki etapu 8a:|8th(a) stage results
+21082|co|Wyniki etapu 8b:|8th(b) stage results
+21090|co|Wyniki etapu 9:|9th stage results
+21091|co|Wyniki etapu 9a:|9th(a) stage results
+21092|co|Wyniki etapu 9b:|9th(b) stage results
+21100|co|Wyniki etapu 10:|10th stage results
+21110|co|Wyniki etapu 11:|11th stage results
+21120|co|Wyniki etapu 12:|12th stage results
+21130|co|Wyniki etapu 13:|13th stage results
+21140|co|Wyniki etapu 14:|14th stage results
+21150|co|Wyniki etapu 15:|15th stage results
+21160|co|Wyniki etapu 16:|16th stage results
+21170|co|Wyniki etapu 17:|17th stage results
+21180|co|Wyniki etapu 18:|18th stage results
+21190|co|Wyniki etapu 19:|19th stage results
+21200|co|Wyniki etapu 20:|20th stage results
+21210|co|Wyniki etapu 21:|21st stage results
